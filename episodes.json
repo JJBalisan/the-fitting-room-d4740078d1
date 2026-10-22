@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "no": 1,
+    "date": "2026-10-19",
+    "title": "What a waterproof rating measures",
+    "summary": "Learn: what a waterproof rating in millimetres measures and what it leaves out. Style: taking from a reference without copying it. The week's pick is a cork crossbody bag, with a brand to know and the verdict on the week's deals.",
+    "file": "audio/ep001.mp3",
+    "bytes": 7992140,
+    "duration": "00:16:18",
+    "music": true,
+    "chapters": "audio/ep001.chapters.json",
+    "cover": "covers/ep001.jpg"
+  }
+]
