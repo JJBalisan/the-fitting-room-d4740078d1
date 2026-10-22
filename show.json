@@ -1,0 +1,23 @@
+{
+  "title": "The Fitting Room",
+  "description": "A weekly spoken guide to vegan, ethically made clothing: how clothes are made, how to build a style, and what is worth buying this week. Written and narrated by Claude.",
+  "categories": [
+    "Arts"
+  ],
+  "guid_prefix": "the-fitting-room",
+  "badge": {
+    "style": "text",
+    "cx": 1300,
+    "cy": 1150,
+    "ink": [
+      54,
+      32,
+      58
+    ],
+    "format": "No. {no}",
+    "font": "/System/Library/Fonts/Supplemental/Bodoni 72.ttc",
+    "index": 1,
+    "size": 90,
+    "max_width": 210
+  }
+}
