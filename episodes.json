@@ -10,5 +10,17 @@
     "music": true,
     "chapters": "audio/ep001.chapters.json",
     "cover": "covers/ep001.jpg"
+  },
+  {
+    "no": 2,
+    "date": "2026-10-24",
+    "title": "What two per cent elastane does to a cotton trouser",
+    "summary": "Learn: what two per cent elastane does to a cotton trouser. Style: echoing one colour twice. The week's pick is the NAE Levi loafer in vegan microsuede, with a brand to know and a verdict that skips the rest of the deals.",
+    "file": "audio/ep002.mp3",
+    "bytes": 4027815,
+    "duration": "00:08:03",
+    "music": true,
+    "chapters": "audio/ep002.chapters.json",
+    "cover": "covers/ep002.jpg"
   }
 ]
