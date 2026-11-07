@@ -36,5 +36,20 @@
     "transcript": "audio/ep003.transcript.html",
     "vtt": "audio/ep003.vtt",
     "cover": "covers/ep003.jpg"
+  },
+  {
+    "no": 4,
+    "date": "2026-11-07",
+    "title": "Why a polyurethane coating fails",
+    "summary": "Learn: why a polyurethane coating fails and what that means for a vegan rain jacket. Style: judging an outfit at three distances. The week's pick is the plain Rains Jacket for light rain, with Thought as the brand to know.",
+    "file": "audio/ep004.mp3",
+    "bytes": 4800496,
+    "duration": "00:09:39",
+    "music": true,
+    "music_credit": "Music: \u201cFashion Instrumental\u201d by Sub_Clair (Pixabay).",
+    "chapters": "audio/ep004.chapters.json",
+    "transcript": "audio/ep004.transcript.html",
+    "vtt": "audio/ep004.vtt",
+    "cover": "covers/ep004.jpg"
   }
 ]

@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 47,
+      "title": "Learn: why a polyurethane coating fails"
+    },
+    {
+      "startTime": 168,
+      "title": "Style: judging an outfit at three distances"
+    },
+    {
+      "startTime": 271,
+      "title": "The week in short"
+    },
+    {
+      "startTime": 311,
+      "title": "New in"
+    },
+    {
+      "startTime": 349,
+      "title": "Deals"
+    },
+    {
+      "startTime": 389,
+      "title": "A brand to know: Thought"
+    },
+    {
+      "startTime": 463,
+      "title": "News"
+    },
+    {
+      "startTime": 492,
+      "title": "The verdict"
+    }
+  ]
+}
