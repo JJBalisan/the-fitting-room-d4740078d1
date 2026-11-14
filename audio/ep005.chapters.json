@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introduction"
+    },
+    {
+      "startTime": 48,
+      "title": "Learn: Garment dyeing and uneven colour"
+    },
+    {
+      "startTime": 182,
+      "title": "Style: Texture contrast and the tonal outfit"
+    },
+    {
+      "startTime": 285,
+      "title": "The week in short"
+    },
+    {
+      "startTime": 325,
+      "title": "New in"
+    },
+    {
+      "startTime": 416,
+      "title": "Deals"
+    },
+    {
+      "startTime": 482,
+      "title": "A brand to know: Colorful Standard"
+    },
+    {
+      "startTime": 587,
+      "title": "News"
+    },
+    {
+      "startTime": 627,
+      "title": "The verdict"
+    }
+  ]
+}

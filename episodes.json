@@ -51,5 +51,20 @@
     "transcript": "audio/ep004.transcript.html",
     "vtt": "audio/ep004.vtt",
     "cover": "covers/ep004.jpg"
+  },
+  {
+    "no": 5,
+    "date": "2026-11-14",
+    "title": "Why a cotton tee dyes unevenly",
+    "summary": "Learn: why garment dyeing leaves the colour of a cotton tee uneven. Style: why a tonal outfit needs texture contrast. The week's pick is the Yes Friends cord trousers, with Colorful Standard as the brand to know.",
+    "file": "audio/ep005.mp3",
+    "bytes": 6105526,
+    "duration": "00:12:22",
+    "music": true,
+    "music_credit": "Music: \u201cFashion Instrumental\u201d by Sub_Clair (Pixabay).",
+    "chapters": "audio/ep005.chapters.json",
+    "transcript": "audio/ep005.transcript.html",
+    "vtt": "audio/ep005.vtt",
+    "cover": "covers/ep005.jpg"
   }
 ]
