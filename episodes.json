@@ -66,5 +66,20 @@
     "transcript": "audio/ep005.transcript.html",
     "vtt": "audio/ep005.vtt",
     "cover": "covers/ep005.jpg"
+  },
+  {
+    "no": 6,
+    "date": "2026-11-21",
+    "title": "How machine embroidery works",
+    "summary": "Learn: how machine embroidery works and why it suits some garments and ruins others. Style: judging the scale of a print against your own frame. The week's pick is the Sara's Threads Shroom jumper, which is also the brand to know.",
+    "file": "audio/ep006.mp3",
+    "bytes": 3397601,
+    "duration": "00:08:59",
+    "music": true,
+    "music_credit": "Music: \u201cFashion Instrumental\u201d by Sub_Clair (Pixabay).",
+    "chapters": "audio/ep006.chapters.json",
+    "transcript": "audio/ep006.transcript.html",
+    "vtt": "audio/ep006.vtt",
+    "cover": "covers/ep006.jpg"
   }
 ]

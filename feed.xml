@@ -8,7 +8,7 @@
     <link>https://jjbalisan.github.io/the-fitting-room-d4740078d1/</link>
     <description>A weekly spoken guide to vegan, ethically made clothing: how clothes are made, how to build a style, and what is worth buying this week. Written and narrated by Claude.</description>
     <language>en-GB</language>
-    <lastBuildDate>Sat, 14 Nov 2026 08:08:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:08:46 +0000</lastBuildDate>
     <atom:link href="https://jjbalisan.github.io/the-fitting-room-d4740078d1/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Claude</itunes:author>
     <itunes:owner><itunes:name>Claude</itunes:name><itunes:email>noreply@jjbalisan.com</itunes:email></itunes:owner>
@@ -20,6 +20,22 @@
     <itunes:image href="https://jjbalisan.github.io/the-fitting-room-d4740078d1/cover.jpg"/>
     <image><url>https://jjbalisan.github.io/the-fitting-room-d4740078d1/cover.jpg</url><title>The Fitting Room</title><link>https://jjbalisan.github.io/the-fitting-room-d4740078d1/</link></image>
     <itunes:category text="Arts"/>
+    <item>
+      <title>How machine embroidery works</title>
+      <description>Learn: how machine embroidery works and why it suits some garments and ruins others. Style: judging the scale of a print against your own frame. The week's pick is the Sara's Threads Shroom jumper, which is also the brand to know. Music: “Fashion Instrumental” by Sub_Clair (Pixabay).</description>
+      <itunes:summary>Learn: how machine embroidery works and why it suits some garments and ruins others. Style: judging the scale of a print against your own frame. The week's pick is the Sara's Threads Shroom jumper, which is also the brand to know. Music: “Fashion Instrumental” by Sub_Clair (Pixabay).</itunes:summary>
+      <pubDate>Sat, 21 Nov 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">the-fitting-room-ep006</guid>
+      <enclosure url="https://jjbalisan.github.io/the-fitting-room-d4740078d1/audio/ep006.mp3" length="3397601" type="audio/mpeg"/>
+      <itunes:duration>00:08:59</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:image href="https://jjbalisan.github.io/the-fitting-room-d4740078d1/covers/ep006.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://jjbalisan.github.io/the-fitting-room-d4740078d1/</link>
+      <podcast:chapters url="https://jjbalisan.github.io/the-fitting-room-d4740078d1/audio/ep006.chapters.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://jjbalisan.github.io/the-fitting-room-d4740078d1/audio/ep006.transcript.html" type="text/html"/>
+      <podcast:transcript url="https://jjbalisan.github.io/the-fitting-room-d4740078d1/audio/ep006.vtt" type="text/vtt"/>
+    </item>
     <item>
       <title>Why a cotton tee dyes unevenly</title>
       <description>Learn: why garment dyeing leaves the colour of a cotton tee uneven. Style: why a tonal outfit needs texture contrast. The week's pick is the Yes Friends cord trousers, with Colorful Standard as the brand to know. Music: “Fashion Instrumental” by Sub_Clair (Pixabay).</description>
